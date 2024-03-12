@@ -1,0 +1,36 @@
+.log{
+    width: 100%;
+    height: 150px;
+    background-color: blue;
+    padding: 20px;
+    
+}
+.text{
+    width: 65%;
+    height: 150px;
+    background-color: green;
+}
+ .button{
+
+    width: 300px;
+ 
+    background-color: red;
+    margin: auto;
+    padding: 20px;
+    margin-top: 30px;
+    text-align: center;
+    
+    
+
+ }
+.information{
+    width: 100%;
+    background-color: rgb(97, 97, 158);
+}
+.sweets{
+    display: flex;
+    align-self: center;
+    margin-right: auto;
+    background-color: rgb(33, 33, 206);
+
+}

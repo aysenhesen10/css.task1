@@ -1,0 +1,24 @@
+.box_img img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.box_img{
+    border-bottom: 3px solid blue;
+}
+.box_text h3{
+    color: red;
+}
+
+.box{
+    width: 70%;
+    margin: auto;
+    
+}
+body{
+    background-color: wheat;
+}
+.box_img{
+    text-align: center;
+}
+
